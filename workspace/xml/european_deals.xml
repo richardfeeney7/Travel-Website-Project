@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deals>       
+  <location>    
+    <country>England </country>
+    <city> Manchester </city>
+    <date> 18/09/2016 </date>
+    <price>  200pp     </price>
+  </location> 
+  
+  <location>    
+    <country>Spain</country>
+    <city>Barcelona</city>
+    <date>14/08/2016</date>
+    <price>299pp</price>
+  </location> 
+  
+  <location>    
+    <country>Italy</country>
+    <city>Rome</city>
+    <date>15/11/2016</date>
+    <price>399pp</price>
+  </location> 
+  
+  <location>    
+    <country>Germany</country>
+    <city>Berlin</city>
+    <date>08/11/2016</date>
+    <price>250pp</price>
+  </location> 
+  
+  <location>    
+    <country>France</country>
+    <city>Paris</city>
+    <date>06/08/2016</date>
+    <price>200pp</price>
+  </location> 
+  
+  <location>    
+    <country>England </country>
+    <city> Manchester </city>
+    <date> 18/09/2016 </date>
+    <price>  200pp     </price>
+  </location> 
+  
+  <location>    
+    <country>Spain</country>
+    <city>Barcelona</city>
+    <date>14/08/2016</date>
+    <price>299pp</price>
+  </location> 
+  
+  <location>    
+    <country>Italy</country>
+    <city>Rome</city>
+    <date>15/11/2016</date>
+    <price>399pp</price>
+  </location> 
+  
+  <location>    
+    <country>Germany</country>
+    <city>Berlin</city>
+    <date>08/11/2016</date>
+    <price>250pp</price>
+  </location> 
+  
+  <location>    
+    <country>France</country>
+    <city>Paris</city>
+    <date>06/08/2016</date>
+    <price>200pp</price>
+  </location> 
+</deals>
